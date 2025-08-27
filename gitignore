@@ -1,0 +1,12 @@
+# OS-specific
+.DS_Store
+Thumbs.db
+
+# Temporary/backup files
+~$*.docx
+~$*.xlsx
+*.tmp
+
+# Python bytecode (if you add scripts later)
+__pycache__/
+*.pyc
